@@ -29,7 +29,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Jean
+ * @author 
  */
 public class Controller {
 

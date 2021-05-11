@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Aude
+ * @author 
  */
 public class LoginFrame extends javax.swing.JFrame {
 

@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Aude
+ * @author 
  */
 public class SignUpFrame extends javax.swing.JFrame {
 

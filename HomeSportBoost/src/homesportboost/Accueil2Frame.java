@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Aude
+ * @author 
  */
 public class Accueil2Frame extends javax.swing.JFrame {
 
